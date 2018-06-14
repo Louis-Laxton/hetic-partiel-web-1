@@ -1228,6 +1228,11 @@ table a,
 /* Mobile Devices --------------------------------------------------------------------------------------------------------------- */
 
 @media screen and (max-width:900px) {
+	#pageintro ul {
+		display: flex;
+		justify-content: space-between;
+	}
+
 	.hoc {
 		max-width: 90%;
 	}
