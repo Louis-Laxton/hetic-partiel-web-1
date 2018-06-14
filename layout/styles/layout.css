@@ -38,6 +38,11 @@
 
 /* Header --------------------------------------------------------------------------------------------------------------- */
 
+#headerContainer {
+	position: fixed;
+	transition: 0.2s linear;
+}
+
 #header {}
 
 #header #logo {
