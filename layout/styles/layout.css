@@ -41,7 +41,7 @@
 #header {}
 
 #header #logo {
-	margin: 30px 0 0 0;
+	margin: 26px 0 0 0;
 }
 
 #header #logo h1 {
@@ -1218,6 +1218,11 @@ table a,
 	#header #logo {
 		margin-top: 3px;
 	}
+
+	#header #logo h1 {
+		margin-top: 26px;
+	}
+
 	#mainav {}
 	#mainav ul {
 		display: none;
@@ -1327,4 +1332,3 @@ table a,
 		font-size: 1.6rem;
 	}
 }
-
